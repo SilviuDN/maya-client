@@ -1,0 +1,31 @@
+.propertyCard {
+  margin-bottom: 1.5em;
+}
+
+.propertyCard h4 {
+  margin-top: 0.5em;
+  margin-bottom: 0.8em;
+  height: 5em;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.propertyCard img {
+  height: 10em;
+  width: 100%;
+  object-fit: cover;
+}
+
+.btnBlock {
+  width: 100%;
+}
+
+.btnGroupOwner {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.2em;
+}
+
+.btn45 {
+  width: 45%;
+}
